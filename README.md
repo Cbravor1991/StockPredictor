@@ -16,7 +16,7 @@ Finalizado. Posibles mejoras incluyen generar la estructura necesaria para que u
 (https://github.com/Cbravor1991/StockPredictorBack)
 
 ## Imágenes / Images
-![Stock Image 1](imagenes/stock_1.png)
+![Stock Image 1](imagenes/stock_10.png)
 ![Stock Image 2](imagenes/stock_2.png)
 ![Stock Image 3](imagenes/stock_3.png)
 ![Stock Image 4](imagenes/stock_4.png)
