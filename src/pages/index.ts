@@ -1,0 +1,5 @@
+export * from './Home'
+export * from './Login'
+export * from './Prediction'
+export * from './Consulta'
+export * from './HistoricalData'

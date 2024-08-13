@@ -1,0 +1,17 @@
+.swal2-popup {
+  background-color: #191414 !important;
+  color: #fff !important;
+  font-family: sans-serif;
+}
+
+.swal-button-green {
+  background-color: #1ed760 !important; 
+  color: black; 
+  border-radius: 9999px;
+}
+
+.swal-button-red {
+  background-color: red !important; 
+  color: black; 
+  border-radius: 9999px;
+}
