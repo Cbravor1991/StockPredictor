@@ -16,13 +16,13 @@ Finalizado. Posibles mejoras incluyen generar la estructura necesaria para que u
 (https://github.com/Cbravor1991/StockPredictorBack)
 
 ## Imágenes / Images
-![Stock Image 1](imagenes/stock_10.png)
-![Stock Image 2](imagenes/stock_2.png)
-![Stock Image 3](imagenes/stock_3.png)
-![Stock Image 4](imagenes/stock_4.png)
-![Stock Image 5](imagenes/stock_5.png)
-![Stock Image 6](imagenes/stock_6.png)
-![Stock Image 7](imagenes/stock_7.png)
+![Stock Image 1](Imagenes/stock_10.png)
+![Stock Image 2](Imagenes/stock_2.png)
+![Stock Image 3](Imagenes/stock_3.png)
+![Stock Image 4](Imagenes/stock_4.png)
+![Stock Image 5](Imagenes/stock_5.png)
+![Stock Image 6](Imagenes/stock_6.png)
+![Stock Image 7](Imagenes/stock_7.png)
 
 
 # Stock Price Predictor for a Specific Day
